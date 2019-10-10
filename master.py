@@ -14,17 +14,14 @@ from keras.preprocessing import image
 from keras.applications.resnet50 import preprocess_input
 from sklearn.neighbors import NearestNeighbors
 
-
 """
 Load pre-trained imagenet resnet50 model
 """
-
 model = ResNet50(weights='imagenet')
 
 """
 Read images and convert them to feature vectors
 """
-
 imgs, filename_heads, X = [], [], []
 
 path = "input_images"
