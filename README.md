@@ -1,9 +1,9 @@
 # similar_products_recommender_using_images
 
 ```
-Purpose 	: Building simple similar products recommendations using images solution
-Author   	: Prav
-Constraints : Many ways to build solution design, try to simplify as much as possible
+Purpose		: Building simple similar products recommendations using images solution
+Author		: Prav
+Constraints	: Many ways to build solution design, try to simplify as much as possible
 ```
 ## Execution Structure
 	-->master.py
