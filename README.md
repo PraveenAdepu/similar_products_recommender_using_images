@@ -15,6 +15,7 @@ Constraints : Many ways to build solution design
 ## Acknowledgments
 
 * Inspiration from open source projects
+* Used sample open source images, not mine
 * etc
 
 ### Todos - as time permits
