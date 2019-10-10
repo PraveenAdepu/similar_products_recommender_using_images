@@ -3,8 +3,7 @@
 ```
 Purpose 	: Building simple similar products recommendations using images solution
 Author   	: Prav
-Constraints : Many ways to build solution design
-			  Try to simplify as much as possible
+Constraints : Many ways to build solution design, try to simplify as much as possible
 ```
 ## Execution Structure
 	-->master.py
